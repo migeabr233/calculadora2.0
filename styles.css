@@ -1,5 +1,5 @@
 body {
-  background-color: #f3f3f3;
+  background-color: #5cb4b5;
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
@@ -10,7 +10,7 @@ body {
 }
 
 #calculator {
-  background-color: #fff;
+  background-color: #1d8082;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   padding: 20px;
@@ -31,6 +31,7 @@ body {
   width: calc(100% - 20px);
   outline: none;
   border-radius: 5px;
+  color: white;
 }
 
 .btn {
